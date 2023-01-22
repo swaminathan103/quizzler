@@ -11,10 +11,10 @@ A quiz app with True or False answers following MVC design pattern
 ## Screenshots
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/53428109/213843273-36e89cd7-4038-42dd-8b95-5b6d7d7f4981.png" data-canonical-src="https://user-images.githubusercontent.com/53428109/213843273-36e89cd7-4038-42dd-8b95-5b6d7d7f4981.png" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/53428109/213843274-5174028b-968a-4b68-ad6f-83ea4436ffdd.png" data-canonical-src="https://user-images.githubusercontent.com/53428109/213843274-5174028b-968a-4b68-ad6f-83ea4436ffdd.png" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/53428109/213843275-93db6e12-31c2-4ed2-807e-a3b675726925.png" data-canonical-src="https://user-images.githubusercontent.com/53428109/213843275-93db6e12-31c2-4ed2-807e-a3b675726925.png" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/53428109/213843276-7850ada0-01d6-47b5-8aba-30efc86c392e.png" data-canonical-src="https://user-images.githubusercontent.com/53428109/213843276-7850ada0-01d6-47b5-8aba-30efc86c392e.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/53428109/213904433-9e50fa16-e908-4c87-9d3d-2abefdd3c019.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/53428109/213904434-1ccb2f8c-a533-4554-83a2-309806e23225.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/53428109/213904435-f8b24037-d3c3-4e9e-a2c9-e4a274e1a8b0.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/53428109/213904436-41648b3f-5444-478e-826e-deab7d1262d4.png" width="200" height="400" />
 </p>
 
 ## References
